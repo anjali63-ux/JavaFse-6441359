@@ -1,0 +1,1 @@
+package com.handson.querydemo.model;
