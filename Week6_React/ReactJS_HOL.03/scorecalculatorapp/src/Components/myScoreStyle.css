@@ -1,0 +1,10 @@
+.container {
+  font-weight: bold;
+  font-size: 20px;
+  color: darkred;
+  background-color: #e8f0fe;
+  padding: 20px;
+  margin: 20px;
+  border: 2px solid gray;
+  border-radius: 8px;
+}
